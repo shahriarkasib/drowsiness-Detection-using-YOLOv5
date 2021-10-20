@@ -1,4 +1,4 @@
-The YOLO V5 model was collected from ultralytics repository and then the model was trained with cusom dataset. The cusstom trained model can be found on
+The YOLO V5 model was collected from ultralytics repository and then the model was trained with cusom dataset. The cusstom trained model can be found on https://github.com/shahriarkasib/drowsiness-Detection-using-YOLOv5/blob/main/best.pt
 
 To run the project use the following commands
 
